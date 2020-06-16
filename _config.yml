@@ -17,7 +17,7 @@ facebook_username: csellington@sbcglobal.net
 #instagram_username: chillwildlife
 #linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -34,13 +34,14 @@ projects_title: Projects
 # Experience Section
 experience_title: Experience
 
+
 # Education Section
 educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  In addition to my interests in problem solving and networks, some of my other interests and hobbies are:
    - Parenting
    - Advocating
    - [ChiariBridges](https://chiaribridges.org/)
